@@ -40,5 +40,14 @@ The trinomial tree is designed to match specifically the time step of the term s
 
 
 
+- Black, F. and Karasinski, P. (1991). Bond and option pricing when short rates are lognormal. Financial
+Analysts Journal, 47(4):52–59.
+- Hull, J. and White, A. (1990). Pricing interest-rate-derivative securities. The review of financial studies,
+3(4):573–592.
+- Veronesi, P. (2010a). 14 - interest rate models in continuous time. In Fixed income securities: Valuation, risk,
+and risk management, pages 499–529. John Wiley & Sons
+- Hull, J. C. (2022). Equilibrium models of the short rate. In Option, Futures, and Other Derivatives, page
+697. Pearson.
+
 
   
