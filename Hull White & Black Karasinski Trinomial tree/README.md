@@ -24,7 +24,7 @@ Each class can compute different securities:
 
 Additional methods are inserted to display the trees of the rate and the securities more pleasantly.
 ![finaltree](https://github.com/MattiaPischedda/Project/assets/154690956/acf3f894-5010-4178-9e2d-a7414402a433)
-\\
+$\newline$
 Interest Rate Swap
 ![swap](https://github.com/MattiaPischedda/Project/assets/154690956/c53d8d96-dff3-4ae7-94e3-4dc54d6b7ad2)
 
