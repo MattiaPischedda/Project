@@ -22,14 +22,10 @@ Each class can compute different securities:
 - Interest Rate Swap
 - Bermudian/American/European Swaption.
 
-Additional methods are inserted to display the trees of the rate and the securities more pleasantly.
+Additional methods are inserted to display the trees of the rate and the securities more pleasantly. Below the pictures of the rate tree of Hull-White using the ECB term structure, and below an Interest Rate Swap.
 ![finaltree](https://github.com/MattiaPischedda/Project/assets/154690956/acf3f894-5010-4178-9e2d-a7414402a433).
 
 
-
-
-
-Interest Rate Swap.
 ![swap](https://github.com/MattiaPischedda/Project/assets/154690956/c53d8d96-dff3-4ae7-94e3-4dc54d6b7ad2).
 
 
