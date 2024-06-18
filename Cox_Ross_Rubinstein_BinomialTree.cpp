@@ -1,3 +1,6 @@
+//Implementation of American and European Option using Cox Ross Rubinstein.
+
+
 #include <iostream>
 #include <vector>
 #include <cmath>
