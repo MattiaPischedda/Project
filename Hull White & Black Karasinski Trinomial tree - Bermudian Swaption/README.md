@@ -47,8 +47,7 @@ Analysts Journal, 47(4):52–59.
 
 - Veronesi, P. (2010a). 14 - interest rate models in continuous time. In Fixed income securities: Valuation, risk,
 and risk management, pages 499–529. John Wiley & Sons
-- Hull, J. C. (2022). Equilibrium models of the short rate. In Option, Futures, and Other Derivatives, page
-697. Pearson.
+- Hull, J. C. (2022). Option, Futures, and Other Derivatives.
 
 
   
