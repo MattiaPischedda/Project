@@ -1,5 +1,5 @@
 The trinomial.py file contains 3 classes, that compute the trinomial tree for the Hull-White and Black-Karasinski models.
-
+Additionally, a term structure interpolation function is employed to preprocess the interest rate data before inputting it into the main model.
 The tree is developed discretizing the continuous stochastic process:
 - Hull White: $dr = a(b -r)dt + \sigma \ dZ$
 - Black Karasinski: $d \ln(r) = [\theta(t) - a \ln(r)] \, dt + \sigma \ dZ$
@@ -14,7 +14,7 @@ The Hull-White is computed using the analytical solution for the alpha parameter
 - $\alpha_m = \frac{\ln \left( \sum_{j=-n_m}^{n_m} Q_{m,j} e^{-j \Delta R \Delta t} \right) - \ln P_{m+1}}{\Delta t}$
 
   
-while for the Black Karasinski, I had to resort to numerical procedure. The default methodology is Newton-Raphson, but  optimization technique can be used. The function is able to handle possible mistakes, raising a value error.
+while for the Black Karasinski, I had to resort to numerical procedure. The default methodology is Newton-Raphson, but  other optimization techniques can be used. The function is able to handle possible mistakes, raising a value error.
 
 Each class can compute different securities:
 - traditional fixed coupon bonds.
