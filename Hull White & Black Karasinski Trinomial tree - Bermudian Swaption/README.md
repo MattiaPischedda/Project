@@ -1,6 +1,6 @@
-The trinomial.py file contains 3 classes, that compute the trinomial tree for the Hull-White and Black-Karasinski.
-The trinomial class is the parent class, that through inheritance develops 2 other classes.
-The tree discretizes the continuous stochastic process:
+The trinomial.py file contains 3 classes, that compute the trinomial tree for the Hull-White and Black-Karasinski models.
+
+The tree is developed discretizing the continuous stochastic process:
 - Hull White: $dr = a(b -r)dt + \sigma \ dZ$
 - Black Karasinski: $d \ln(r) = [\theta(t) - a \ln(r)] \, dt + \sigma \ dZ$
 
